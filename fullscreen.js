@@ -3,3 +3,5 @@ fullscreen.addEventListener('click',function() {
 	document.webkitRequestFullscreen();
 	alert("Going FullScreen Mode!");
 });
+
+//Edited
